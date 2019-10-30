@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/PortlandTripperApp/obj/Debug/netcoreapp2.2/PortlandTripperApp.csprojAssemblyReference.cache
+/Users/Guest/Desktop/PortlandTripperApp/obj/Debug/netcoreapp2.2/PortlandTripperApp.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/PortlandTripperApp/obj/Debug/netcoreapp2.2/PortlandTripperApp.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/PortlandTripperApp/obj/Debug/netcoreapp2.2/PortlandTripperApp.AssemblyInfo.cs
