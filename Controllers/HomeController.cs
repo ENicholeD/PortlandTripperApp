@@ -9,6 +9,7 @@ namespace PortlandTripper.Controllers
         {
             var allTrips = TripAdvisor.GetTrips();
             return View(allTrips);
+          
         }
     }
 }

@@ -24,6 +24,7 @@ namespace PortlandTripper
             public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
                 WebHost.CreateDefaultBuilder(args)
                     .UseStartup<Startup>();
+                
 
         }
     }

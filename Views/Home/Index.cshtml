@@ -1,0 +1,18 @@
+
+@using PortlandTripper.Models
+
+<h1>Destination Details!</h1>
+<ul>
+
+@foreach (TripAdvisor tripAdvisor in Model)
+{
+    <li>City: @tripAdvisor.Name</li>
+    <li>Country: @tripAdvisor.Address</li>
+    <li>Review: @tripAdvisor.Hours</li>
+    <li>Rating: @tripAdvisor.Cost</li>
+    <li>Description: @tripAdvisor.Description</li>    
+}
+
+
+</ul>
+
