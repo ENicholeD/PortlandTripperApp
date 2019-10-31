@@ -1,0 +1,8 @@
+@using PortlandTripper.Models
+<ul>
+@foreach (TripAdvisor tripAdvisor in Model)
+{
+    <li>City: @tripAdvisor.Name</li>  
+    <li>Time of day: @tripAdvisor.TimeOfDay</li>
+}
+</ul>
